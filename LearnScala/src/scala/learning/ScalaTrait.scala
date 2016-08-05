@@ -1,4 +1,6 @@
 
+package scala.learning
+
 trait Logger {
   def log (msg : String)
 }
