@@ -43,6 +43,7 @@ object PackageOps {
   
   def makeItTrue(p: PackageOps): Boolean = {
     val result = p.canMakeItTrue
+    result
   }
 }
 
