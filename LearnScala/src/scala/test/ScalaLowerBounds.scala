@@ -44,7 +44,7 @@ object ScalaLowerBounds {
       * append的U类型应该是Object或者Object的父类，而Int不是从Object派生的，所以Scala类型推导得出的最早共同祖先是Any
      * 因此得到的新Queue是Queue[Any]，参见q4
      * 
-     * 结论，上界的意义
+     * 结论，下界的意义
      * 例如append(U >: Grandpa)里，并不是说传给append的参数必须是Grandpa或者Grandpa子类的实例
      * 而是，U的具体类型是根据传入参数和Grandpa的类型关系推导出的一个最早的公共祖先。这个祖先最窄的范围就是Grandpa，最宽的范围可以是Any
      * 所以这个例子里,Grandpa就是U的类型下界，U的类型上界是Any

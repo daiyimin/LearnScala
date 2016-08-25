@@ -40,7 +40,7 @@ object ScalaUpperBounds {
      * replace的U类型应该是Grandpa或者Grandpa的子类，而Mother不是从Grandpa派生的，所以Scala报错。参见b4
      * 
      * 结论，上界的意义
-     * 例如replace(U >: Grandpa)里，传给replace的参数必须是Grandpa或者Grandpa子类的实例
+     * 例如replace(U <: Grandpa)里，传给replace的参数必须是Grandpa或者Grandpa子类的实例
      * U的具体类型是根据传入参数的类型决定的。这个类型最宽可以是Grandpa，最窄则没有限制，取决于Grandpa的子类数目
      * 所以这个例子里,Grandpa就是U的类型上界，U的类型没有下界
      * 
