@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 import scala.collection.immutable.Queue
 

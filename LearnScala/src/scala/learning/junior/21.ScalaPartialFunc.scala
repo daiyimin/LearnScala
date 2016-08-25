@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object ScalaPartialFunc {
   def main(args : Array[String]) {

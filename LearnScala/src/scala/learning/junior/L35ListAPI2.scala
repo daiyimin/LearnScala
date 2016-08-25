@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object L35ListAPI2 {
   def main(args : Array[String]) {

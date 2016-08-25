@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 abstract class Item
 case class Book(description: String, price: Double) extends Item

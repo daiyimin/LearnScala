@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object ScalaMatchWithSet {
   def main(args : Array[String]) {

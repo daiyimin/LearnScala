@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object L31ScalaOption {
   def main(args : Array[String]) {
@@ -7,5 +7,6 @@ object L31ScalaOption {
        case Some(score) => println(score)
        case None => println("Not found")
      }
+     
   }
 }

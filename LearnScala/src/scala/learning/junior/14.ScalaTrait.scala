@@ -1,5 +1,5 @@
 
-package scala.learning
+package scala.learning.junior
 
 trait Logger {
   def log (msg : String)

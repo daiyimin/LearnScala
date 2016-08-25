@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 /**
  * 前面我们说过，Scala允许程序员自己新创建一些控制结构，并且可以使得这些控制结构在语法看起来和Scala内置的控制结构一样，在Scala中需要借助于 柯里化(Currying).

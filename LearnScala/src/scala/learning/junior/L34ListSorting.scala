@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object L34ListSorting {
   def main(args : Array[String]) {

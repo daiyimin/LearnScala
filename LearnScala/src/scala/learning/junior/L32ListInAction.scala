@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object L32ListInAction {
   def main(args : Array[String]) {

@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 /** sample 1 **/
 class Human {

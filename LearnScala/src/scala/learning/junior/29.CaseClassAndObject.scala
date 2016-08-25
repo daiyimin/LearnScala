@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 /** scala语言对case class和case object实现了语言级别的支持
     1. case classe的每个成员都是val

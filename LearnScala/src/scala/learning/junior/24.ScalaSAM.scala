@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 import javax.swing._
 import java.awt.event._

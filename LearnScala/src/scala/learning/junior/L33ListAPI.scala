@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object L33ListAPI {
   def main(args : Array[String]) {

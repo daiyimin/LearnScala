@@ -1,8 +1,6 @@
-package scala.learning
+package scala.learning.junior
 
 import scala.io._
-import java.io.PrintWriter
-import java.io.File
 
 object ScalaFileOps {
   def main(args : Array[String]) {

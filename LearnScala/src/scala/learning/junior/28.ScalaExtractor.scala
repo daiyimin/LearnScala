@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object ScalaExtractor {
   def main(args : Array[String]) {

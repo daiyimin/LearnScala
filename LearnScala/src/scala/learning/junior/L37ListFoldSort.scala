@@ -1,4 +1,4 @@
-package scala.learning
+package scala.learning.junior
 
 object L37ListFoldSort {
   def main(args : Array[String]) {
